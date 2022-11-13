@@ -28,3 +28,5 @@ I'm a frontend developer, located in Shenzhen. here are my infomation belowe.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=HelloWorld20&show_icons=true&theme=dark&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HelloWorld20&theme=dark&layout=compact)
+
+![Most Used Languages Last 7 Day's]([<figure><embed src="https://wakatime.com/share/@dbe1a774-664f-423a-b0bf-5294a9b81f6e/8222af9e-7811-4216-ba08-5f2d10549b34.svg"></embed></figure>](https://wakatime.com/share/@dbe1a774-664f-423a-b0bf-5294a9b81f6e/84fcec4a-a6e4-4883-ab2d-7b26e983045b.png))
