@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 I'm a frontend developer, located in Shenzhen. here are my infomation belowe.
 
-- 🔭 I’m currently working on rabbitpre
+- 🔭 I’m currently working at Pazhou Lab
 - 🌱 I’m currently learning [so many thing](https://jianghong.site/todo)
 - 📫 How to reach me: 292701515@qq.com
 
